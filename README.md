@@ -1,0 +1,2 @@
+# Social-Media-Data-Analytics-Facebook-Campaign-Performance-Analysis
+This project analyzes the Facebook advertising campaign run by 365 Data Science to sell one of their online courses. Using Python and standard data-science libraries, the analysis examines campaigns, audience targeting, ad creative performance, and conversion funnels to measure how effectively the campaign turned impressions into course sales.
